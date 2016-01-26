@@ -1,8 +1,8 @@
 ---
 title: 'Machine Learning Project: Exercise behavior prediction'
 author: "Manjit P."
-date: "Sunday, January 24, 2016"
-output: html_document
+date: "Monday, January 25, 2016"
+output: word_document
 ---
 
 ## Report Synopsis
